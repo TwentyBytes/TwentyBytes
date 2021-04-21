@@ -3,4 +3,4 @@
 
 :bookmark_tabs: Мои контакты:
 - Vk: https://vk.com/kqnth
-- Telegram: t.me/jqstlvcky
+- Telegram: https://t.me/jqstlvcky
